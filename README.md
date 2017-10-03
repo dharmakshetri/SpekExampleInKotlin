@@ -10,7 +10,7 @@ Tests are not only to check the code you’ve written executes and works, but al
 
 ### Setting up Spek
 
-You have to do in Gradle
+You have to do in **Gradle**
 
 JUnit Platform provides a gradle plugin.
 
@@ -44,7 +44,7 @@ dependencies {
 }
 ```
 and
-You have to do in Maven
+You have to do in **Maven**
 
 JUnit provides support for Maven.
 pom.xml
@@ -63,4 +63,5 @@ More learn spek please visit official website: (http://spekframework.org/docs/la
 ### About Me
 
 [Dharma Kshetri](www.dharmakshetri.me), Android Engineer and blog [PrAndroid](www.prandroid.com)
+
 #IloveKotlin [#PrAndroid](www.prandroid.com) #Kotlin #Spek #Android
