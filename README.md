@@ -1,8 +1,8 @@
 # SpekExampleInKotlin
 Spek Test in android using kotlin
 
-- (Kotlin)[https://kotlinlang.org/]
-- (Spek)[http://spekframework.org/docs/latest/]
+- [Kotlin](https://kotlinlang.org/)
+- [Spek](http://spekframework.org/docs/latest/)
 
 ### What is Spek?
 
@@ -62,5 +62,5 @@ More learn spek please visit official website: (http://spekframework.org/docs/la
 
 ### About Me
 
-(Dharma Kshetri)[www.dharmakshetri.me], Android Engineer and blog (PrAndroid)[www.prandroid.com]
-#IloveKotlin #PrAndroid #Kotlin #Spek #Android
+[Dharma Kshetri](www.dharmakshetri.me), Android Engineer and blog [PrAndroid](www.prandroid.com)
+#IloveKotlin [#PrAndroid](www.prandroid.com) #Kotlin #Spek #Android
